@@ -1,5 +1,16 @@
 Your REACT_APP_API_KEY from https://spoonacular.com/food-api in .env file
 
+In this proyect is used: 
+
+    "axios": "^0.26.1",
+    "react": "^18.0.0",
+    "react-icons": "^4.3.1",
+    "react-paginate": "^8.1.3",
+    "react-router-dom": "^6.3.0",
+    "react-spinners": "^0.12.0",
+    "styled-components": "^5.3.5",
+    "sweetalert2": "^11.4.26",
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
